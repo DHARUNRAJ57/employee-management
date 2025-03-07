@@ -17,5 +17,4 @@ yarn-error.log
 /node_modules
 /public/storage
 /storage
-/bootstrap/cache
 /public/storage
